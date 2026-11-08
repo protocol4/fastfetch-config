@@ -1,3 +1,6 @@
+⚠️ this readme is AI generated, the dots arent
+
+
 # 🚀 Fastfetch Custom Configuration
 
 Welcome to a stunning configuration for [Fastfetch](https://github.com/fastfetch-cli/fastfetch), the ultimate system information tool that turns your terminal into a work of art! 🎨✨
